@@ -1,2 +1,2 @@
-# Bit-Manipulation-In-Java
-Java Implementation of Bit manipulation Algorithms
+# Bit-Manipulation-Algorithms
+Java Source Code Representation of Bit manipulation Algorithms
